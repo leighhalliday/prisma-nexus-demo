@@ -2,6 +2,11 @@
 
 Here we combine Prisma with Nexus Schema to create a powerful, simple, and typed setup for defining our GraphQL schema and integrating it with our database via Prisma.
 
+## Links
+
+- Nexus Prisma Plugin: https://nexusjs.org/pluginss/prisma/overview
+- Prisma Migrate: https://www.prisma.io/docs/reference/tools-and-interfaces/introspection
+
 ## Gotchas
 
 - Don't install your own `@prisma/cli` and `@prisma/client` packages
